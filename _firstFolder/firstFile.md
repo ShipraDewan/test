@@ -10,12 +10,14 @@ Example of UL:
 	* jdnfd
 * dhbfdjf
 
-
 Example of OL:
 
-1 abc
-2 def
-	* iii
-	* nnn
-3 nvb
-4 ken	
+1. abc
+2. def
+	1. nnn
+	2. jjj
+3. djf
+	* dnf
+	* fff
+4. djd
+
