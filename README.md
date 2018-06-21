@@ -1,9 +1,4 @@
 # test
 
-##heading 1
-
-###heading 2
-
-*dfndjfn*
-
-#heading
+## heading 1
+### heading 2
