@@ -22,7 +22,7 @@ Each analytics module has a specific function and solves business problems. The 
 
 * Enables big data applications development by Developers without Big Data expertise.
 * Unlocks the value of your data; add new applications quickly and easily.
-  * Use GUI, Java, CLI or REST APIs to build pipelines.
+* Use GUI, Java, CLI or REST APIs to build pipelines.
 * Applications built on RAF are agnostic to the underlying BPP. Simplifies deployment of applications into existing customer big data environments.
 * Leverages existing clusters, data, and analytics.
 
