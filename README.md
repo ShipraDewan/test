@@ -1,6 +1,7 @@
 # Guavus Reflex
 
-Guavus Reflex® consists of a hardened and highly secure Base Processing Platform (BPP) and Analytics Fabric (RAF) that help you transform the way you design big data applications. You can leverage the Artificial Intelligence (AI) and Machine Learning (ML) based analytics already built into it to gain a competitive edge by putting all your data to work, uncovering new insights and making better quality and timely decisions.
+Guavus
+Reflex® consists of a hardened and highly secure Base Processing Platform (BPP) and Analytics Fabric (RAF) that help you transform the way you design big data applications. You can leverage the Artificial Intelligence (AI) and Machine Learning (ML) based analytics already built into it to gain a competitive edge by putting all your data to work, uncovering new insights and making better quality and timely decisions.
 
 ## Reflex Base Processing Platform
 
